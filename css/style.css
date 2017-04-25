@@ -109,3 +109,11 @@ p
 	font-family: Ebrima,sans-serif;
 	font-size: 3em;
 }
+#btn{
+    padding-left: 10px;
+}
+#txtbtn{
+    color: #FFF;
+    font-size: 18px;
+    font-family: Ebrima,sans-serif;
+}
