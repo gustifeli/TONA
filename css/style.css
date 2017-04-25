@@ -120,13 +120,12 @@ p
 
 * {box-sizing:border-box}
 body {font-family: Verdana,sans-serif;}
-.mySlides {display:none}
+.mySlides {	display:none;}
 
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: auto;
 }
 
 /* Caption text */
@@ -185,11 +184,5 @@ body {font-family: Verdana,sans-serif;}
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
-}
-#tona,#tona1,#tona2{
-	width: 100%;
-    height: 100%;
-	margin: 0px;
-	padding: 0px;
-}
+}	
 	
