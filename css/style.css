@@ -99,6 +99,16 @@ p
 }
 a.navbar-brand {
 	font-family:Ebrima,sans-serif;
-	font-size: 2em;
+	font-size: 3em;
 	text-transform: bold;
+}
+#img {
+	width: 14px;
+	height: 30px;
+	display: inline-block;
+	position: absolute;
+	left: 144px;
+	top: 23px;
+	
+	
 }
