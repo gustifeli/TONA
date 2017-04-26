@@ -6,4 +6,19 @@ label{
 	width: 400px;
 	margin: auto;
 } 
+#table{
+display: table;
+width: 300px;
+height: 100%;
+margin: auto;
+}
+#cell{
+display: table-cell;
+vertical-align: middle;
+}
 
+#contenido{
+height: 400px;
+background: #fff;
+text-align: center;
+}
