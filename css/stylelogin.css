@@ -10,11 +10,10 @@ label{
 	text-align: center;
 	display: block;
 }
-/*
+
 .form-group{
 	width: 400px;
-	margin: auto;
-} */
+}
 #table{
 display: table;
 width: 300px;
