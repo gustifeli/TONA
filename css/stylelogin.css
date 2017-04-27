@@ -10,11 +10,11 @@ label{
 	text-align: center;
 	display: block;
 }
-/*
+
 .form-group{
 	width: 400px;
 	margin: auto;
-} */
+}
 #table{
 display: table;
 width: 100%;
@@ -34,4 +34,8 @@ margin-right: 0px;
 }
 .btn-danger{
 	margin: 10px;
+}
+#contenido{
+	text-align: center;
+	display: block;
 }
