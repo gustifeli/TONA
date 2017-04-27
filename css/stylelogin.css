@@ -12,11 +12,11 @@ label{
 }
 
 .form-group{
-	width: 400px;
+	width: auto;
 }
 #table{
 display: table;
-width: 300px;
+width: auto;
 height: 100%;
 margin: auto;
 }
