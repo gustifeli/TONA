@@ -1,0 +1,85 @@
+html {
+    height: 100%;
+  background-color: withe;
+}
+
+#txtfooter{/*Texto footer sta...*/
+    color: white;      
+}
+.navbar{ 
+    padding: 10px;
+}
+#nav{/* navbar superior*/
+    margin: 0%;
+	border-radius: 0px;
+	padding: 10px;
+}
+#navInf{
+	padding: 10px;
+}
+#img { /*img maniqui TONA*/
+	width: 14px;
+	height: 30px;
+	display: inline-block;
+	position: absolute;
+	left: 144px;
+	top: 23px;
+}
+#TONA{ /* style titulo TONA*/
+	color: #FFF;
+	font-family: Ebrima,sans-serif;
+	font-size: 3em;
+}
+#btn{ /* Padding btn producto y contacto*/
+    padding-left: 10px;
+}
+#txtbtn{ /*Style botones producto y contacto*/
+    color: #FFF;
+    font-size: 18px;
+    font-family: Ebrima,sans-serif;
+}
+textarea{
+    float: right;
+    width: 80%;
+    margin-bottom: 20px;
+}
+.form-col1 {
+    float: left;
+    width: 35%;
+    margin-right: 4%;
+    text-align: center;
+    vertical-align: middle;
+}
+label {
+	font-size: 15px;
+    display: block;  
+	margin: 0px;
+	padding: 0px;
+	width: 50%;
+	color: #000;
+}
+.form-col2 {
+	float: right;
+	width: 48%;
+    text-align: center;
+    vertical-align: middle;
+}
+input{
+    width: 40%;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+section{
+    font-family: Ebrima,sans-serif;
+    text-align: center;
+    vertical-align: central;
+}
+.boton{
+    width: 120px;
+    text-align: center;
+}
+.footer{
+	position: fixed;
+	bottom: 0%; 
+	width: 100%;
+	}
