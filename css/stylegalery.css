@@ -2,6 +2,12 @@ html {
     height: 100%;
   background-color: withe;
 }
+body {
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
 
 #txtfooter{/*Texto footer sta...*/
     color: white;      
@@ -45,10 +51,7 @@ html {
 }
 #lookbook {
     max-width: 100%;
-    width: 70%;
-    margin-left: 14%;
-    margin-right: 0 auto;
-    height: auto;
+    width: 77%;
     display: block;
     border-bottom: 2px solid;
     border-bottom-color: black;
@@ -60,7 +63,34 @@ html {
     color: #000;
     float: left;
     font-size: 2em;
-    margin: 0%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.thumbnail {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.39);
+    display:block;
+    margin-bottom: 30px;
+    background-color: #FFF;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-top: 20px;
+    width: 300px;
+       
+}
+.caption {
+    text-align: center;
+    font-family: Ebrima,sans-serif; 
+    font-size: 20px;
+}
+.thumbnail:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+#container{
+     height: 100%;
+     margin: 0 auto;
+     width: auto;
+     max-width: 100%;
+     margin-left: 45px;
 }
 
     
